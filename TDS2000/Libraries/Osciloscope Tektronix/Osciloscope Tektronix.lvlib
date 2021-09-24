@@ -20,6 +20,7 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="SET COM Port Argument--cluster.ctl" Type="VI" URL="../SET COM Port Argument--cluster.ctl"/>
 				<Item Name="Initialize Oscilloscope Argument--cluster.ctl" Type="VI" URL="../Initialize Oscilloscope Argument--cluster.ctl"/>
+				<Item Name="Close Oscilloscope Argument--cluster.ctl" Type="VI" URL="../Close Oscilloscope Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -35,6 +36,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="SET COM Port.vi" Type="VI" URL="../SET COM Port.vi"/>
 			<Item Name="Initialize Oscilloscope.vi" Type="VI" URL="../Initialize Oscilloscope.vi"/>
+			<Item Name="Close Oscilloscope.vi" Type="VI" URL="../Close Oscilloscope.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -112,4 +114,5 @@
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Get Classes Names.vi" Type="VI" URL="../Get Classes Names.vi"/>
+	<Item Name="Set Class Instance.vi" Type="VI" URL="../Set Class Instance.vi"/>
 </Library>

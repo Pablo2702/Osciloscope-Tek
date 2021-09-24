@@ -21,6 +21,7 @@
 				<Item Name="SET COM Port Argument--cluster.ctl" Type="VI" URL="../SET COM Port Argument--cluster.ctl"/>
 				<Item Name="Initialize Oscilloscope Argument--cluster.ctl" Type="VI" URL="../Initialize Oscilloscope Argument--cluster.ctl"/>
 				<Item Name="Close Oscilloscope Argument--cluster.ctl" Type="VI" URL="../Close Oscilloscope Argument--cluster.ctl"/>
+				<Item Name="AutoSetup Argument--cluster.ctl" Type="VI" URL="../AutoSetup Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +38,7 @@
 			<Item Name="SET COM Port.vi" Type="VI" URL="../SET COM Port.vi"/>
 			<Item Name="Initialize Oscilloscope.vi" Type="VI" URL="../Initialize Oscilloscope.vi"/>
 			<Item Name="Close Oscilloscope.vi" Type="VI" URL="../Close Oscilloscope.vi"/>
+			<Item Name="AutoSetup.vi" Type="VI" URL="../AutoSetup.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

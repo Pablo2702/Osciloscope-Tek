@@ -25,6 +25,7 @@
 				<Item Name="Configure Channel Argument--cluster.ctl" Type="VI" URL="../Configure Channel Argument--cluster.ctl"/>
 				<Item Name="Read Measurement Argument--cluster.ctl" Type="VI" URL="../Read Measurement Argument--cluster.ctl"/>
 				<Item Name="Read Measurement 2 Channels Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Argument--cluster.ctl"/>
+				<Item Name="Read Waveform Argument--cluster.ctl" Type="VI" URL="../Read Waveform Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -45,6 +46,7 @@
 			<Item Name="Configure Channel.vi" Type="VI" URL="../Configure Channel.vi"/>
 			<Item Name="Read Measurement.vi" Type="VI" URL="../Read Measurement.vi"/>
 			<Item Name="Read Measurement 2 Channels.vi" Type="VI" URL="../Read Measurement 2 Channels.vi"/>
+			<Item Name="Read Waveform.vi" Type="VI" URL="../Read Waveform.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

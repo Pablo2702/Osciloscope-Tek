@@ -16,6 +16,10 @@
 		<Item Name="Test Oscilloscope.vi" Type="VI" URL="../Libraries/Osciloscope Tektronix/Clases/Osciloscope/Test Oscilloscope.vi"/>
 		<Item Name="Test Osciloscope Tektronix API.vi" Type="VI" URL="../Libraries/Osciloscope Tektronix/Test Osciloscope Tektronix API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="Agilent 2000 3000 X-Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Agilent 2000 3000 X-Series.lvlib"/>
+				<Item Name="Tektronix TDS 200 1000 2000 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Tektronix TDS 200 1000 2000 Series/Tektronix TDS 200 1000 2000 Series.lvlib"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>

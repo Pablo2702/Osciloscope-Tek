@@ -13,7 +13,7 @@
 		<Item Name="Osciloscope Tektronix Module" Type="Folder">
 			<Item Name="Osciloscope Tektronix.lvlib" Type="Library" URL="../Libraries/Osciloscope Tektronix/Osciloscope Tektronix.lvlib"/>
 		</Item>
-		<Item Name="Test Oscilloscope.vi" Type="VI" URL="../Libraries/Osciloscope Tektronix/Clases/Implementation/Osciloscope/Test Oscilloscope.vi"/>
+		<Item Name="Test Oscilloscope.vi" Type="VI" URL="../Libraries/Osciloscope Tektronix/Test Oscilloscope.vi"/>
 		<Item Name="Test Osciloscope Tektronix API.vi" Type="VI" URL="../Libraries/Osciloscope Tektronix/Test Osciloscope Tektronix API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">

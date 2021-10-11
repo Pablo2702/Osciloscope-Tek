@@ -129,7 +129,7 @@
 	<Item Name="Osciloscope Class" Type="Folder">
 		<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Clases/Osciloscope/Osciloscope.lvclass"/>
 		<Item Name="Tektonix 2000.lvclass" Type="LVClass" URL="../Clases/Tektonix 2000/Tektonix 2000.lvclass"/>
-		<Item Name="EDUX1002G.lvclass" Type="LVClass" URL="../EDUX1002G/EDUX1002G.lvclass"/>
+		<Item Name="EDUX1002G.lvclass" Type="LVClass" URL="../Clases/EDUX1002G/EDUX1002G.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Get Classes Names.vi" Type="VI" URL="../Get Classes Names.vi"/>

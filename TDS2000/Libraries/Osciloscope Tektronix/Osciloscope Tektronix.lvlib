@@ -127,11 +127,16 @@
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
 	<Item Name="Osciloscope Class" Type="Folder">
-		<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Osciloscope/Osciloscope.lvclass"/>
-		<Item Name="Tektonix 2000.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Tektonix 2000/Tektonix 2000.lvclass"/>
-		<Item Name="EDUX1002G.lvclass" Type="LVClass" URL="../Clases/Implementaciones/EDUX1002G/EDUX1002G.lvclass"/>
+		<Item Name="Implementaciones" Type="Folder">
+			<Item Name="Osciloscope.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Osciloscope/Osciloscope.lvclass"/>
+			<Item Name="Tektonix 2000.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Tektonix 2000/Tektonix 2000.lvclass"/>
+			<Item Name="EDUX1002G.lvclass" Type="LVClass" URL="../Clases/Implementaciones/EDUX1002G/EDUX1002G.lvclass"/>
+			<Item Name="Rigol.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Rigol/Rigol.lvclass"/>
+			<Item Name="Keysight.lvclass" Type="LVClass" URL="../Clases/Implementaciones/Keysight/Keysight.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Get Classes Names.vi" Type="VI" URL="../Get Classes Names.vi"/>
 	<Item Name="Set Class Instance.vi" Type="VI" URL="../Set Class Instance.vi"/>
+	<Item Name="Implementation path.vi" Type="VI" URL="../Implementation path.vi"/>
 </Library>
